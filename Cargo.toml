@@ -1,0 +1,8 @@
+[package]
+    description = "const-issue-sample"
+    edition     = "2021"
+    name        = "const-issue"
+    version     = "0.0.1"
+
+[profile.release]
+    opt-level = 3

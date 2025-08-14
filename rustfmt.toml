@@ -1,0 +1,3 @@
+max_width = 150
+imports_granularity = "Module"
+spaces_around_ranges = true
